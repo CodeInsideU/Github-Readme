@@ -4,7 +4,7 @@ Eager to learn and grab opportunities in technology😃
 
 ## I'm a Student and Full-Stack Developer!!
 
-- 🔭 Check out my portfolio Site: [V-Folio][https://lighthearted-puppy-8a1c50.netlify.app/]!
+- 🔭 Check out my portfolio Site: [V-Folio](https://lighthearted-puppy-8a1c50.netlify.app/)!
 
 - 🌱 I’m currently learning **DSA, Project Management, Node.js, MongoDB**
 - 👨🏻‍🤝‍👨🏻 I’m looking to collaborate with other developers.
